@@ -66,8 +66,5 @@
 <br clear="both">
 
 ![snake gif](https://github.com/Huthaifa-Al-Manasrah/Huthaifa-Al-Manasrah/blob/output/github-contribution-grid-snake.gif)
-![Snake animation](https://raw.githubusercontent.com/Huthaifa-Al-Manasrah/Huthaifa-Al-Manasrah/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://raw.githubusercontent.com/Huthaifa-Al-Manasrah/Huthaifa-Al-Manasrah/output/snake.svg" alt="Snake animation" />
 
 ###
